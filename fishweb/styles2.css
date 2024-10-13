@@ -1,0 +1,40 @@
+body{
+	background-color:lightblue;
+	text-align:center;
+	
+}
+h1{
+	color:brown;
+	font-family:cursive;
+	text-align:center;
+}
+p{
+	color:sienna;
+	font-family:;
+
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkgray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: darkgreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
